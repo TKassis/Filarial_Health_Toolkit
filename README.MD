@@ -1,5 +1,5 @@
 # Filarial Health Toolkit
-LabVIEW VIs used in the following two papers by _Kassis et al._:
+LabVIEW VIs used to acquire video of adult filarial parasites and quantify their motility.
 
 _Please note this code is not production ready. It was put together quickly for a research project, but it works well._
 
